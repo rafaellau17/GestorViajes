@@ -1,1 +1,1 @@
-Uso de Listas con I/O en archivos .txt. 
+Uso de Listas con I/O en CLI almacenando en archivos .txt. 
